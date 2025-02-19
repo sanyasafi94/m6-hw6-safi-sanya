@@ -12,16 +12,21 @@ header{
     background-color: navy;
     padding: 5px;
     margin: auto;
+    min-height: 50px;
 }
 
 h1{
-    color: white;
-    font-family: sans-serif;
+    
 }
 
 nav {
+    display: flex;
+    flex-direction:;
+}
+
+a {
     color: white;
-    
+    text-decoration: none;
 }
 
 .container{
@@ -34,3 +39,9 @@ p {
     line-height: 140%;
 }
 
+footer{
+    background-color: navy;
+    padding: 5px;
+    margin: auto;
+    min-height: 50px;
+}
