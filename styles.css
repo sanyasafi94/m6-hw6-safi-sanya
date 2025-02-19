@@ -6,6 +6,7 @@
 
 body {
     background-image: url('.//images/watercolor.png');
+    min-height: 100vh;
 }
 
 header{
@@ -27,6 +28,7 @@ nav {
 a {
     color: white;
     text-decoration: none;
+    
 }
 
 .container{
@@ -44,4 +46,8 @@ footer{
     padding: 5px;
     margin: auto;
     min-height: 50px;
+}
+
+footer p {
+    color: white;
 }
