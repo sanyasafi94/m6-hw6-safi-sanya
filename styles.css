@@ -9,5 +9,28 @@ body {
 }
 
 header{
+    background-color: navy;
+    padding: 5px;
+    margin: auto;
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+}
+
+nav {
+    color: white;
     
 }
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 15px 0;
+    line-height: 140%;
+}
+
