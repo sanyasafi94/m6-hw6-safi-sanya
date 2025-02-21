@@ -37,9 +37,17 @@ nav {
 }
 
 .container{
-    max-width: 800px;
+    max-width: 850px;
     margin: 0 auto;
     padding: 0 12px;
+}
+
+main {
+    background-color: rgb(249, 246, 248);
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    padding: 20px;
 }
 
 .main-content{
@@ -48,14 +56,45 @@ nav {
 
 .self{
     float: left;
-    margin: 0 20px 10px 0; 
+    margin: 0 10px 10px 0; 
     width: 200px;
+    padding-top: 10px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: .5px solid navy;
+    margin: 1em 0;
+    padding: 0;
+}
+
+h1{
+    font-family: sans-serif;
+    color: navy;
+    font-size: 25px;
 }
 
 p {
     margin: 15px 0;
     line-height: 1.2;
     padding-left: 20px ;
+}
+
+aside{
+    display: flex;
+    background-color: white;
+    justify-content: flex-end;
+    margin-left: auto;
+
+}
+
+aside img {
+    box-shadow: 3px 3px 3px darkgrey;
+    width: 40px;
+    margin-right: 9px;
+
 }
 
 footer{
