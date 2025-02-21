@@ -12,7 +12,7 @@ body {
 }
 
 header{
-    background-color: white;
+    background-color: rgb(249, 246, 248);
     padding: 24px 0;
     border-bottom: 1pt solid navy;
 }
@@ -84,7 +84,7 @@ p {
 
 aside{
     display: flex;
-    background-color: white;
+    background-color: rgb(249, 246, 248);
     justify-content: flex-end;
     margin-left: auto;
     max-width: fit-content;
