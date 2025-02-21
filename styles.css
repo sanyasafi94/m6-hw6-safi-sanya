@@ -87,6 +87,8 @@ aside{
     background-color: white;
     justify-content: flex-end;
     margin-left: auto;
+    max-width: fit-content;
+    padding: 10px;
 
 }
 
