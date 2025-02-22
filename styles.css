@@ -52,6 +52,8 @@ main {
 
 .main-content{
     padding-top: 20px ;
+    display: flex;
+    align-items: flex-start;
 }
 
 .self{
@@ -89,6 +91,7 @@ aside{
     margin-left: auto;
     max-width: fit-content;
     padding: 10px;
+    align-self: flex-start;
     
 
 }
