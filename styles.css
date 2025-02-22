@@ -41,6 +41,7 @@ nav {
     max-width: 850px;
     margin: 0 auto;
     padding: 0 12px;
+    font-family: sans-serif;
 }
 
 main {
@@ -112,4 +113,5 @@ footer{
 
 footer p {
     color: white;
+    font-family: sans-serif;
 }
